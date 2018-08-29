@@ -1,4 +1,4 @@
-package com.sensorsdata.analytics.android.app
+package com.sensorsdata.analytics.android.plugin
 
 class SensorsDataPluginConfig {
     boolean debug

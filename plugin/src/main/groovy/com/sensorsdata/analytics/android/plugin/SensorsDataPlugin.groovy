@@ -1,4 +1,4 @@
-package com.sensorsdata.analytics.android.app
+package com.sensorsdata.analytics.android.plugin
 
 import org.gradle.api.Plugin
 import org.gradle.api.Project
